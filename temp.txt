@@ -1,0 +1,38 @@
+$createApplicationCommand[global;meme;Random Meme;true]
+$createApplicationCommand[global;animalfact;Get A Random AnimalFact;true]
+
+$createApplicationCommand[global;say;Make The Bot Say Something;true;slash;[
+{
+"name" : "message",
+"description" : "Message",
+"type" : "STRING",
+"required" : true
+}
+]]
+
+$createApplicationCommand[global;kiss;Kiss Someone;true;slash;[
+{
+"name" : "user",
+"description" : "user",
+"type" : "USER",
+"required" : true
+}
+]]
+
+$createApplicationCommand[global;hug;Hug Someone;true;slash;[
+{
+"name" : "user",
+"description" : "user",
+"type" : "USER",
+"required" : true
+}
+]]
+
+$createApplicationCommand[global;slap;Slap Someone;true;slash;[
+{
+"name" : "user",
+"description" : "user",
+"type" : "USER",
+"required" : true
+}
+]]
