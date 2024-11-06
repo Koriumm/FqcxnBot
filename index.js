@@ -70,7 +70,7 @@ bot.status({
 })
 
 bot.status({
-	text: "fqcxnbot.tk",
+	text: "bot.fqcxn.com",
     type: "PLAYING",
     time: 60,
 })
