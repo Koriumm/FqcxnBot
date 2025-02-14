@@ -70,4 +70,4 @@ Released under the [MIT](https://mit-license.org/) license.
 
 This project utilizes [Discord API](https://discord.dev/), [Discord.Js](https://discord.js.org/), [AOI.Js](https://aoi.js.org/), [AOI.Js Music](https://github.com/aoijs/aoi.music), [AOI.Js Panel](https://www.npmjs.com/package/@akarui/aoi.panel), and [CanvaCord](https://www.npmjs.com/package/canvacord).
 
-© 2024 Koriumm. All rights reserved.
+© 2025 Koriumm. All rights reserved.
